@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bogging_website/static/css/main.a27b91b7.chunk.css",
+    "main.js": "/bogging_website/static/js/main.00f3bdd7.chunk.js",
+    "main.js.map": "/bogging_website/static/js/main.00f3bdd7.chunk.js.map",
+    "runtime-main.js": "/bogging_website/static/js/runtime-main.22e02fa3.js",
+    "runtime-main.js.map": "/bogging_website/static/js/runtime-main.22e02fa3.js.map",
+    "static/js/2.209d0a79.chunk.js": "/bogging_website/static/js/2.209d0a79.chunk.js",
+    "static/js/2.209d0a79.chunk.js.map": "/bogging_website/static/js/2.209d0a79.chunk.js.map",
+    "index.html": "/bogging_website/index.html",
+    "static/css/main.a27b91b7.chunk.css.map": "/bogging_website/static/css/main.a27b91b7.chunk.css.map",
+    "static/js/2.209d0a79.chunk.js.LICENSE.txt": "/bogging_website/static/js/2.209d0a79.chunk.js.LICENSE.txt",
+    "static/media/header.87f40b19.jpeg": "/bogging_website/static/media/header.87f40b19.jpeg",
+    "static/media/side.da54b5ea.jpg": "/bogging_website/static/media/side.da54b5ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22e02fa3.js",
+    "static/js/2.209d0a79.chunk.js",
+    "static/css/main.a27b91b7.chunk.css",
+    "static/js/main.00f3bdd7.chunk.js"
+  ]
+}
